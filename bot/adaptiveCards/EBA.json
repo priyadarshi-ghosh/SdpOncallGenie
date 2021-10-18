@@ -1,0 +1,31 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Below are the TSGs of most frequently occuring EBA issues.",
+      "wrap": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "RBA Delayed event processing",
+      "url": "https://tinyurl.com/3z9rp5dh"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "DeleteMailboxWatermarks Setting",
+      "url": "https://tinyurl.com/m4e6eu44"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "PerMailboxWatermarkBehind data",
+      "url": "https://tinyurl.com/8ea4dch7"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.4"
+}

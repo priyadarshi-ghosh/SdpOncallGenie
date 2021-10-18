@@ -1,0 +1,25 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Hi, I'm SDP Oncall Genie."
+    },
+    {
+      "type": "TextBlock",
+      "text": "For production escalations click the below link",
+      "wrap": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Escalation Battle Card",
+      "url": "https://tinyurl.com/2vzrx5fv"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.4"
+}

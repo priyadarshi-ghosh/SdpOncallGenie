@@ -1,0 +1,36 @@
+{
+  "type": "AdaptiveCard",
+  "body": [
+    {
+      "type": "TextBlock",
+      "size": "Medium",
+      "weight": "Bolder",
+      "text": "Below are the TSGs of most frequently occuring TBA issues.",
+      "wrap": true
+    }
+  ],
+  "actions": [
+    {
+      "type": "Action.OpenUrl",
+      "title": "Nail down culprit item triggered quarantine",
+      "url": "https://tinyurl.com/7un34ydj"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Get per assistant running details",
+      "url": "https://tinyurl.com/2e4e6at9"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "Start TBA with high priority",
+      "url": "https://tinyurl.com/54btahse"
+    },
+    {
+      "type": "Action.OpenUrl",
+      "title": "TBA throttle troubleshoot",
+      "url": "https://tinyurl.com/ys2mweka"
+    }
+  ],
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.4"
+}

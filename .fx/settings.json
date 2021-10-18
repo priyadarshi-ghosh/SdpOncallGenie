@@ -1,0 +1,22 @@
+{
+    "appName": "SdpOncallGenie",
+    "projectId": "120159c4-3738-4683-84d9-54d17806c179",
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Bot"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-bot",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio"
+        ]
+    },
+    "version": "1.0.0",
+    "activeEnvironment": "default",
+    "programmingLanguage": "javascript"
+}
